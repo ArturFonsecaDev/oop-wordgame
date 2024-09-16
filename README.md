@@ -1,2 +1,2 @@
-# forca
- jogo da forca
+# Hangman
+ ## Hangman implemented with OOP 
